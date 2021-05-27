@@ -20,3 +20,6 @@ function App() {
 }
 
 export default App;
+
+
+/* "homepage": "http://ubeytdemirr.github.io/strive-blog-template", */
